@@ -1,0 +1,26 @@
+{
+  "name": "gitbook-plugin-modal-image",
+  "main": "index.js",
+  "version": "1.0.8",
+  "description": "Represent image inside a modal, inspired by gitbook-plugin-modal-youtube-video",
+  "keywords": [
+    "image",
+    "modal",
+    "gitbook"
+  ],
+  "author": {
+    "name": "Shijun Bian",
+    "email": "shiroh880527@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shiroh0527/gitbook-plugin-modal-image"
+  },
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "dependencies": {
+	    "jquery": "^2.1.4",
+	     "underscore": "^1.8.3"
+  }	      
+}
