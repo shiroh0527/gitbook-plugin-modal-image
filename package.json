@@ -1,7 +1,7 @@
 {
   "name": "gitbook-plugin-modal-image",
   "main": "index.js",
-  "version": "1.0.8",
+  "version": "1.1.0",
   "description": "Represent image inside a modal, inspired by gitbook-plugin-modal-youtube-video",
   "keywords": [
     "image",
@@ -20,7 +20,7 @@
     "gitbook": ">1.x.x"
   },
   "dependencies": {
-	    "jquery": "^2.1.4",
-	     "underscore": "^1.8.3"
-  }	      
+    "jquery": "^2.2.4",
+    "underscore": "^1.8.3"
+  }
 }
